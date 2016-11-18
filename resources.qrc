@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/plugins/PlanetImagePreview" >
+        <file>icon_find.png</file>
+        <file>icon_prev.png</file>
+        <file>icon_next.png</file>
+    </qresource>
+</RCC>
